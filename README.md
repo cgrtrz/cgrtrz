@@ -1,24 +1,5 @@
-## Hi there 👋
-
-<!--
-**cgrtrz/cgrtrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<h1 align="center">Merhaba 👋, ben [Adınız]</h1>
-<h3 align="center">Yazılım Geliştirici | Açık Kaynak Tutkunu | Yaşam Boyu Öğrenen</h3>
+<h1 align="center">Hi there 👋, I'm Cagri!</h1>
+<h3 align="center">iOS Developer | Apple Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+Lover;React+Fanatiği;Her+Gün+Yeni+Bir+Şey+Öğren;Kodu+Yaz,+Çayı+İç☕&center=true&width=500&height=45">
