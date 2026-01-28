@@ -54,15 +54,15 @@ I’m an **iOS Developer** focused on crafting **clean, intuitive, and scalable*
 | **OpenAI n8n Bot** | AI-powered automation workflows with OpenAI | OpenAI, n8n |
 | **Firebase Chat** | Real-time chat app with modern UI | SwiftUI, Firebase |
 
-➡️ More projects on **[github.com/cagriterzi](https://github.com/cagriterzi)**
+➡️ More projects on **[github.com/cagriterzi](https://github.com/cgrtrz)**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagriterzi&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagriterzi&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cgrtrz&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgrtrz&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
